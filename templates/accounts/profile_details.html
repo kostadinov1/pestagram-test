@@ -1,0 +1,60 @@
+{% extends 'base/base.html' %}
+{% block content_page %}
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="d-flex">
+            <div class="d-inline p-2 w-50">
+                <img src="{{ profile.picture }}"
+                     class="w-50 rounded mx-auto d-block" alt="description">
+            </div>
+            <div class="d-inline p-2 w-50">
+                <div class="d-flex flex-column">
+                    <h5><u>Name:</u> {{ profile.get_full_name }}</h5>
+
+                    {% if profile.date_of_birth %}
+                    <h5><u>Birthdate:</u> {{ profile.date_of_birth }}</h5>
+                    {% endif %}
+
+                    {% if profile.email %}
+                    <h5><u>Email:</u> {{ profile.email }}</h5>
+                    {% endif %}
+
+                    {% if profile.gender %}
+                    <h5><u>Gender:</u> {{ profile.gender }}</h5>
+                    {% endif %}
+
+                    {% if profile.description %}
+                    <h5><u>Description:</u> {{ profile.description }}</h5>
+                    {% endif %}
+
+                </div>
+                <p class="mt-2">Total Images: {{ total_images_count }}</p>
+                <p class="mt-2">Total Likes: {{ total_img_likes_count }}</p>
+                {% if is_owner %}
+                <a href="{% url 'show edit profile' %}" class="btn btn-primary">Edit</a>
+                <a href="#" class="btn btn-danger">Delete</a>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>
+<h2  >My Pets</h2>
+    {% for pet in pets %}
+        <div class="container mb-4">
+            <div class="d-flex justify-content-start mb-5">
+                <div style="width: 18rem;">
+
+                <h5>{{ pet.name }}</h5>
+                    {% if pet.age %}
+                <p class="mt-2">Age: {{ pet.age }}</p>
+                    {% endif %}
+                {% if is_owner %}
+                <a href="{% url 'show edit pet' pet.id %}" class="btn btn-primary">Edit</a>
+                <a href="{% url 'show delete pet' pet.id %}" class="btn btn-danger">Delete</a>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+        {% endfor %}
+
+{% endblock %}

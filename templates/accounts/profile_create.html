@@ -1,0 +1,24 @@
+
+{% extends 'base/base.html' %}
+{% block content_page %}
+
+<div class="container mb-5">
+    <h1 class="text-center">Create Your Profile</h1>
+    <div class="row">
+        <div class="col-lg-3"></div>
+            <div class="col-lg-6">
+                <form method="POST" action="{% url 'show register' %}">
+
+                    {{ form }}
+                    {% csrf_token %}
+
+                    <button class="btn btn-primary mt-2" type="submit">Create</button>
+                </form>
+            </div>
+        </div>
+        <div class="col-lg-3"></div>
+    </div>
+
+
+
+{% endblock %}

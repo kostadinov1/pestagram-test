@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5d756d60-e76e-4f41-9c38-5012396e7a7c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="24jzjt2bHpgS8DnNQ3EewI9RhD8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite&#10;postgresql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/petstagram" />
+      <recent name="$PROJECT_DIR$/petstagram/main/views" />
+      <recent name="$PROJECT_DIR$/petstagram/common" />
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django Server.petstagram">
+    <configuration name="photo_details.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/petstagram/petstagram/pets/templates/photo_details.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="old_views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="petstagram" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/petstagram/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/petstagram/main/views/old_views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="petstagram" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/petstagram/pets" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/petstagram/pets/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="petstagram" type="Python.DjangoServer" factoryName="Django server">
+      <module name="petstagram" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="petstagram.settings" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="true" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+          <ENTRY IS_ENABLED="true" PARSER="env" PATH=".env" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django Server.petstagram" />
+      <item itemvalue="JavaScript Debug.photo_details.html" />
+      <item itemvalue="Python.old_views" />
+      <item itemvalue="Python.views (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.views (1)" />
+        <item itemvalue="Python.old_views" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d756d60-e76e-4f41-9c38-5012396e7a7c" name="Changes" comment="" />
+      <created>1644158922121</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644158922121</updated>
+      <workItem from="1644158927094" duration="7031000" />
+      <workItem from="1644211920883" duration="12852000" />
+      <workItem from="1644262051230" duration="1328000" />
+      <workItem from="1644263397214" duration="1273000" />
+      <workItem from="1644299967354" duration="13601000" />
+      <workItem from="1644389826103" duration="2239000" />
+      <workItem from="1644420235467" duration="3391000" />
+      <workItem from="1644484472956" duration="2818000" />
+      <workItem from="1644561672557" duration="3156000" />
+      <workItem from="1644580459193" duration="6669000" />
+      <workItem from="1644646205225" duration="1616000" />
+      <workItem from="1644851387581" duration="598000" />
+      <workItem from="1644923200768" duration="6070000" />
+      <workItem from="1644990230266" duration="1895000" />
+      <workItem from="1645003761078" duration="16220000" />
+      <workItem from="1645079188646" duration="1843000" />
+      <workItem from="1645465344847" duration="2961000" />
+      <workItem from="1645511202949" duration="2519000" />
+      <workItem from="1645541846700" duration="3590000" />
+      <workItem from="1645600395987" duration="6037000" />
+      <workItem from="1645617133842" duration="12919000" />
+      <workItem from="1645644294477" duration="1906000" />
+      <workItem from="1645682210445" duration="8035000" />
+      <workItem from="1645725795901" duration="6897000" />
+      <workItem from="1645768681290" duration="20724000" />
+      <workItem from="1645860196133" duration="13179000" />
+      <workItem from="1645895789042" duration="18000" />
+      <workItem from="1645896449451" duration="2535000" />
+      <workItem from="1645941555616" duration="643000" />
+      <workItem from="1646136214661" duration="3681000" />
+      <workItem from="1646722613728" duration="829000" />
+      <workItem from="1646933499107" duration="2441000" />
+      <workItem from="1646935955282" duration="6586000" />
+      <workItem from="1646997267398" duration="11303000" />
+      <workItem from="1647070445687" duration="12841000" />
+      <workItem from="1647095863361" duration="1204000" />
+      <workItem from="1647097083327" duration="995000" />
+      <workItem from="1647101205156" duration="6001000" />
+      <workItem from="1647108722542" duration="1440000" />
+      <workItem from="1647110702089" duration="35000" />
+      <workItem from="1647111285077" duration="1444000" />
+      <workItem from="1647154624479" duration="3018000" />
+      <workItem from="1647170871776" duration="37000" />
+      <workItem from="1647171117788" duration="14208000" />
+      <workItem from="1647240198246" duration="9535000" />
+      <workItem from="1648386173093" duration="2393000" />
+      <workItem from="1648388763559" duration="11271000" />
+      <workItem from="1648410981322" duration="176000" />
+      <workItem from="1648412312033" duration="2196000" />
+      <workItem from="1648415046120" duration="892000" />
+      <workItem from="1648452388741" duration="388000" />
+      <workItem from="1648473625770" duration="3890000" />
+      <workItem from="1648479869723" duration="253000" />
+      <workItem from="1648480188329" duration="7407000" />
+      <workItem from="1648538749401" duration="12000" />
+      <workItem from="1648539289879" duration="20224000" />
+      <workItem from="1648656394796" duration="181000" />
+      <workItem from="1648844693522" duration="94000" />
+      <workItem from="1648844908749" duration="34000" />
+      <workItem from="1648914124924" duration="261000" />
+      <workItem from="1648914387582" duration="8399000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/my-petstagram" />
+    </ignored-roots>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/petstagram$views__1_.coverage" NAME="views (1) Coverage Results" MODIFIED="1645877070185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/petstagram/pets" />
+    <SUITE FILE_PATH="coverage/petstagram$views.coverage" NAME="views Coverage Results" MODIFIED="1645025687984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/petstagram/main" />
+  </component>
+</project>
